@@ -24,7 +24,6 @@ Closes #123
 Relates to #456
 
 ## Impact
-- Breaking changes: Yes/No
 - Affects other modules: Yes/No
 - Database changes: Yes/No
 
@@ -56,6 +55,5 @@ Cierra #123
 Relacionado con #456
 
 ## Impacto
-- ¿Hay breaking changes?: Sí/No
 - ¿Afecta otros módulos?: Sí/No
 - ¿Hay cambios en base de datos?: Sí/No
