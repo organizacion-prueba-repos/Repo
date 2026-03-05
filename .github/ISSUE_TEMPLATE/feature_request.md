@@ -6,6 +6,9 @@ labels: feature
 assignees: ""
 ---
 
+
+--------------------------------------- Inglés ------------------------------------------
+
 ## Feature Description
 Clearly describe the proposed feature.
 
@@ -23,15 +26,6 @@ Which part of the system would this affect?
 
 
 --------------------------------------- Español ------------------------------------------
-
-
----
-name: "Nueva Funcionalidad"
-about: "Proponer una mejora o nueva característica."
-title: "[FEATURE] - Descripción corta"
-labels: feature
-assignees: ""
----
 
 ## Descripción de la funcionalidad
 Describe claramente la funcionalidad propuesta.
