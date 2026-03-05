@@ -6,6 +6,9 @@ labels: tech-debt
 assignees: ""
 ---
 
+
+--------------------------------------- Inglés ------------------------------------------
+
 ## Description
 Describe the required technical improvement.
 
@@ -20,15 +23,6 @@ Are there any risks involved in implementing this change?
 
 
 --------------------------------------- Español ------------------------------------------
-
-
----
-name: "Tarea Técnica"
-about: "Mejora interna o refactor del sistema."
-title: "[TECH] - Descripción corta"
-labels: tech-debt
-assignees: ""
----
 
 ## Descripción
 Describe la mejora técnica necesaria.
