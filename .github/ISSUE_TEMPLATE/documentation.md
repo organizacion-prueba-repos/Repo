@@ -6,6 +6,9 @@ labels: documentation
 assignees: ""
 ---
 
+
+--------------------------------------- Inglés ------------------------------------------
+
 ## Description
 Which part of the documentation needs to be updated?
 
@@ -17,15 +20,6 @@ Affected file(s) or section(s).
 
 
 --------------------------------------- Español ------------------------------------------
-
-
----
-name: "Documentación"
-about: "Mejora o actualización de documentación."
-title: "[DOC] - Descripción corta"
-labels: documentation
-assignees: ""
----
 
 ## Descripción
 ¿Qué parte de la documentación necesita actualizarse?
