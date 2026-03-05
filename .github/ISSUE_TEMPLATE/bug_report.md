@@ -6,6 +6,8 @@ labels: bug
 assignees: ""
 ---
 
+--------------------------------------- Inglés ------------------------------------------
+
 ## Issue Description
 Clearly describe the bug you encountered.
 
@@ -44,15 +46,6 @@ Add any other relevant information here.
 
 
 --------------------------------------- Español ------------------------------------------
-
-
----
-name: "Reporte de Bug"
-about: "Reportar un error para ayudarnos a mejorar el proyecto."
-title: "[BUG] - Descripción corta del problema"
-labels: bug
-assignees: ""
----
 
 ## Descripción del problema
 Describe claramente el error encontrado.
